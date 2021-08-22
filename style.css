@@ -1,0 +1,93 @@
+.ins-header{
+    width: auto;
+    height: 680px;
+}
+#my-services{
+    margin: 20px;
+}
+#who-we-are{
+    margin-top: 0px;
+   
+    text-align: center;
+}
+#who-we-are>p{
+    text-align: center;
+}
+.my-project-demo{
+    margin: 0 auto;
+    width: 760;
+    
+}
+main{
+    margin: 30px;
+}
+.cms-contact{
+    background: url(./Images/world-maps.jpeg);
+    height: 550px;
+    top: 60px;
+    width: 100%;
+    margin-bottom: 35px ;
+}
+.cms-contact h1{
+    justify-content: center;
+    align-items: center;
+}
+.cms-about{
+    height: 380px;
+    width: 100%;
+}
+#about-cms{
+    color: #fff;
+}
+#about-content{
+    margin-top: 30px;
+}
+#cms-about-pic{
+    padding: 20px;
+    border: 2px solid white;
+}
+.about-head{
+    background: url(./Images/who\ we\ are.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    
+}
+.about-head h1{
+    padding-top: 100px;
+    text-align: flex-start;
+    color: #fff;
+}
+.services-content{
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.cms-service-head{
+    background: url(./Images/shipping---website.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    
+}
+.cms-service-head h1{
+    padding-top: 100px;
+    text-align: flex-start;
+    color: white;
+}
+.cms-anchor{
+    /* text-decoration: none; */
+    color: #fff;
+}
+.cms-services{
+    margin-top: 20px;
+}
+.cms-services h1 ,.cms-services h6{
+    margin-top: 20px;
+}
+.cms-head-btn{
+    border: 5px solid #0F4D8E;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    display: inline-block;
+}
